@@ -5,6 +5,7 @@
 ## 🔧 Moje Projekty
 
 ### C++
+- 💰[bank_management_system_oop](https://github.com/PatrykxWojtowicz/bank_management_system_oop) - Prosta struktura banku w C++ za pomocą OOP
 - 📊 [Logger danych z czujnika](https://github.com/PatrykxWojtowicz/Logger-danych-z-czujnika-na-PC) - Zapisywanie danych z czujników do pliku CSV (prototyp dla Arduino/ESP32)
 
 ### Arduino (coming soon...)
