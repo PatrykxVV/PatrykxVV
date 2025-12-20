@@ -5,7 +5,7 @@
 ## 🔧 Moje Projekty
 
 ### C++ ⚡︎
--🖥️ [gRPC_Cpp_client_server](https://github.com/PatrykxVV/gRPC_Cpp_client_server) - Minimalny przykład komunikacji klient-serwer z wykorzystaniem gRPC, proto w C++
+- 🖥️ [gRPC_Cpp_client_server](https://github.com/PatrykxVV/gRPC_Cpp_client_server) - Minimalny przykład komunikacji klient-serwer z wykorzystaniem gRPC, proto w C++
 - 🐚[Shell_CPP](https://github.com/PatrykxVV/Shell_CPP) - 🛠️ Powłoka systemowa w shell w C++ (w trakcie tworzenia) 🛠️
 - 🔑[Encryption-Decryption-XOR](https://github.com/PatrykxVV/Encryption-Decryption-XOR) - Program szyfrująco/deszyfrujący w C++
 - 💰[bank_management_system_oop](https://github.com/PatrykxWojtowicz/bank_management_system_oop) - Prosta struktura banku w C++ za pomocą OOP
