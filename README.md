@@ -6,10 +6,11 @@
 
 ### C++ ⚡︎
 - 🖥️ [gRPC_Cpp_client_server](https://github.com/PatrykxVV/gRPC_Cpp_client_server) - Minimalny przykład komunikacji klient-serwer z wykorzystaniem gRPC, proto w C++
+- 🗄️[HTTP_CPP](https://github.com/PatrykxVV/HTTP_CLIENT_CPP) - Minimalny projekt w C++ demonstrujący komunikację sieciową opartą o TCP
 - 🐚[Shell_CPP](https://github.com/PatrykxVV/Shell_CPP) - 🛠️ Powłoka systemowa w shell w C++ (w trakcie tworzenia) 🛠️
 - 🔑[Encryption-Decryption-XOR](https://github.com/PatrykxVV/Encryption-Decryption-XOR) - Program szyfrująco/deszyfrujący w C++
 - 💰[bank_management_system_oop](https://github.com/PatrykxWojtowicz/bank_management_system_oop) - Prosta struktura banku w C++ za pomocą OOP
-- 📊 [Logger danych z czujnika](https://github.com/PatrykxWojtowicz/Logger-danych-z-czujnika-na-PC) - Zapisywanie danych z czujników do pliku CSV (prototyp dla Arduino/ESP32)
+
 
 ### Python 🐍
 
