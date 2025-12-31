@@ -1,6 +1,6 @@
 # Cześć, jestem Patryk ! 👋
 
- 🔝 C++ |Python | ROS2 |  Arduino | ESP32 | Raspberry Pi | 
+ 🔝 |C++ |Python | ROS2 |  Arduino | ESP32 | Raspberry Pi | 
 
 ## 🔧 Moje Projekty
 
