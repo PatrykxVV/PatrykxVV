@@ -12,6 +12,7 @@
 - 🔑[Encryption-Decryption-XOR](https://github.com/PatrykxVV/Encryption-Decryption-XOR) - Edukacyjny program w C++ do szyfrowania i deszyfrowania danych z użyciem XOR cipher.
 
 ### ROS2
+- ⚙️[Arduino_Bot_ROS2](https://github.com/PatrykxVV/Arduino_Bot_ROS2) - Arduinobot – ROS 2 workspace robot arm (URDF, RViz, launch files, C++/Python nodes); project in progress.
 - 🧑‍💻[Zbiór programów napisanych w C++ podczas nauki ROS2](https://github.com/PatrykxWojtowicz/ROS2_beginner_projects_cpp)
 - 🔋[Symulacja działania baterii w ROS2 PYTHON](https://github.com/PatrykxWojtowicz/Symulacja_Bateri_ROS2_PY)
 ### Python 🐍
