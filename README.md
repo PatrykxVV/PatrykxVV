@@ -12,11 +12,8 @@
 - 🔑[Encryption-Decryption-XOR](https://github.com/PatrykxVV/Encryption-Decryption-XOR) - Edukacyjny program w C++ do szyfrowania i deszyfrowania danych z użyciem XOR cipher.
 
 ### ROS2
--🧑‍💻[Zbiór programów napisanych w C++ podczas nauki ROS2](https://github.com/PatrykxWojtowicz/ROS2_beginner_projects_cpp)
-
--🔋[Symulacja działania baterii w ROS2 PYTHON](https://github.com/PatrykxWojtowicz/Symulacja_Bateri_ROS2_PY)
-
-
+- 🧑‍💻[Zbiór programów napisanych w C++ podczas nauki ROS2](https://github.com/PatrykxWojtowicz/ROS2_beginner_projects_cpp)
+- 🔋[Symulacja działania baterii w ROS2 PYTHON](https://github.com/PatrykxWojtowicz/Symulacja_Bateri_ROS2_PY)
 ### Python 🐍
 - 🕸️ [Network_proxy_debugger](https://github.com/PatrykxVV/Network_proxy_debugger) - Wielowątkowy TCP proxy w C++, z Pythonem jako traffic generator i tester zachowań sieciowych.
 ### Rust 🦀
