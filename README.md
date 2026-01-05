@@ -5,18 +5,18 @@
 ## 🔧 Moje Projekty
 
 ### C++ ⚡︎
-- 🖥️ [gRPC_Cpp_client_server](https://github.com/PatrykxVV/gRPC_Cpp_client_server) - Minimalny przykład komunikacji klient-serwer z wykorzystaniem gRPC, proto w C++
-- 🗃️ [Boost_task_scheduler](https://github.com/PatrykxVV/Boost_task_scheduler) - Lekki task scheduler w C++17 oparty o Boost.Asio z integracją Apache Kafka.
-- 🗄️[HTTP_CPP](https://github.com/PatrykxVV/HTTP_CLIENT_CPP) - Minimalny projekt w C++ demonstrujący komunikację sieciową opartą o TCP
-- 🐚[Shell_CPP](https://github.com/PatrykxVV/Shell_CPP) - 🛠️ Powłoka systemowa w shell w C++ (w trakcie tworzenia) 🛠️
-- 🔑[Encryption-Decryption-XOR](https://github.com/PatrykxVV/Encryption-Decryption-XOR) - Program szyfrująco/deszyfrujący w C++
+- 🖥️ [gRPC_Cpp_client_server](https://github.com/PatrykxVV/gRPC_Cpp_client_server) - Minimalny gRPC client–server w C++ z Protocol Buffers, demonstracja komunikacji RPC zamiast surowych socketów.
+- 🗃️ [Boost_task_scheduler](https://github.com/PatrykxVV/Boost_task_scheduler) - Event-driven task scheduler w C++17 + Boost.Asio z integracją Apache Kafka (consumer).  
+- 🗄️[HTTP_CPP](https://github.com/PatrykxVV/HTTP_CLIENT_CPP) - Minimalny projekt w C++, pokazujący niskopoziomową komunikację TCP/HTTP bez frameworków.
+- 🐚[Shell_CPP](https://github.com/PatrykxVV/Shell_CPP) - 🛠️ Prosta powłoka systemowa (shell) w C++ (work in progress), projekt edukacyjny z zakresu procesów i system calls. 🛠️
+- 🔑[Encryption-Decryption-XOR](https://github.com/PatrykxVV/Encryption-Decryption-XOR) - Edukacyjny program w C++ do szyfrowania i deszyfrowania danych z użyciem XOR cipher.
 
 
 
 ### Python 🐍
-- 🕸️ [Network_proxy_debugger](https://github.com/PatrykxVV/Network_proxy_debugger) - C++ MultiThreading TCP proxy z wykorzystaniem pythona jako testera zachowań sieciowych
+- 🕸️ [Network_proxy_debugger](https://github.com/PatrykxVV/Network_proxy_debugger) - Wielowątkowy TCP proxy w C++, z Pythonem jako traffic generator i tester zachowań sieciowych.
 ### Rust 🦀
-- 📄[Rust Log Counter](https://github.com/PatrykxVV/Rust_log_counter) - Prosty program CLI napisany w języku Rust, który analizuje plik tekstowy i zlicza podstawowe statystyki logów.
+- 📄[Rust Log Counter](https://github.com/PatrykxVV/Rust_log_counter) - Prosty CLI tool w Rust, analizujący pliki logów i zliczający podstawowe statystyki.
 
 ### Arduino (coming soon...)
 - 🌡️ Smart Weather Station 
