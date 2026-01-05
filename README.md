@@ -11,6 +11,9 @@
 - 🐚[Shell_CPP](https://github.com/PatrykxVV/Shell_CPP) - 🛠️ Prosta powłoka systemowa (shell) w C++ (work in progress), projekt edukacyjny z zakresu procesów i system calls. 🛠️
 - 🔑[Encryption-Decryption-XOR](https://github.com/PatrykxVV/Encryption-Decryption-XOR) - Edukacyjny program w C++ do szyfrowania i deszyfrowania danych z użyciem XOR cipher.
 
+### ROS2
+-🧑‍💻[Zbiór programów napisanych w C++ podczas nauki ROS2](https://github.com/PatrykxWojtowicz/ROS2_beginner_projects_cpp)
+-🔋[Symulacja działania baterii w ROS2 PYTHON](https://github.com/PatrykxWojtowicz/Symulacja_Bateri_ROS2_PY)
 
 
 ### Python 🐍
@@ -31,10 +34,6 @@
 ### PLC 
 -🔧[Automatyczne Sterowanie Zbiornikiem Wodnym](https://github.com/PatrykxWojtowicz/Zbiornik-Codesys) 
 
-### ROS2
--🧑‍💻[Zbiór programów napisanych w C++ podczas nauki ROS2](https://github.com/PatrykxWojtowicz/ROS2_beginner_projects_cpp)
-
--🔋[Symulacja działania baterii w ROS2 PYTHON](https://github.com/PatrykxWojtowicz/Symulacja_Bateri_ROS2_PY)
 
 
 ## 🛠️ Technologie
