@@ -6,7 +6,7 @@
 
 ### C++ ⚡︎
 - 🖥️ [gRPC_Cpp_client_server](https://github.com/PatrykxVV/gRPC_Cpp_client_server) - Minimalny przykład komunikacji klient-serwer z wykorzystaniem gRPC, proto w C++
-- 🗃️ [Boost_task_scheduler](https://github.com/PatrykxVV/Boost_task_scheduler) - Lekki task scheduler w C++17 oparty o Boost.Asio.
+- 🗃️ [Boost_task_scheduler](https://github.com/PatrykxVV/Boost_task_scheduler) - Lekki task scheduler w C++17 oparty o Boost.Asio z wykorzystniem KAFKA.
 - 🗄️[HTTP_CPP](https://github.com/PatrykxVV/HTTP_CLIENT_CPP) - Minimalny projekt w C++ demonstrujący komunikację sieciową opartą o TCP
 - 🐚[Shell_CPP](https://github.com/PatrykxVV/Shell_CPP) - 🛠️ Powłoka systemowa w shell w C++ (w trakcie tworzenia) 🛠️
 - 🔑[Encryption-Decryption-XOR](https://github.com/PatrykxVV/Encryption-Decryption-XOR) - Program szyfrująco/deszyfrujący w C++
